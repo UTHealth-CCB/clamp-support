@@ -13,7 +13,7 @@ import edu.uth.clamp.nlp.structure.XmiUtil;
 public class DemoDocumentParser {
 
 	public static void main( String[] argv ) throws UIMAException, IOException {
-		Document doc = new Document( "data/xmi/sample_1195.xmi" );
+		Document doc = new Document( "data/xmi/mtsamples/sample_1195.xmi" );
 		
 		System.out.println( "Filename of the document is [" + doc.getFileName() + "]" );
 		System.out.println( "file length of the document is [" + doc.getFileContent().length() + "]" );
