@@ -32,6 +32,10 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/clamp-nlp-1.1.3-BETA-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="lib/clamp-nlp-1.1.3-BETA-jar-with-dependencies.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/clamp-support/lib/clamp-nlp-1.1.3-BETA-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
