@@ -1,6 +1,6 @@
 {
-  "name": "Clamp-support",
-  "tagline": "CLAMP",
+  "name": "Clamp",
+  "tagline": "Support",
   "body": "### Clinical Language Annotation, Modeling and Processing Toolkit\r\nCLAMP is a comprehensive clinical Natural Language Processing software that enables recognition and automatic encoding of clinical information in narrative patient reports. In addition to running clinical concept extraction as well as annotation pipelines, the individual components of the system can also be used as independent modules. The system lends itself for diverse applications in a broad range of clinical domains. \r\n\r\n### About Us\r\nThe CLAMP is a natural language processing tool, based on several award-winning methods and applications developed in University of Texas Health Science Center at Houston, School of Biomedical Informatics. \r\n\r\n### CLAMP Features\r\n* High-performance NLP components\r\n* Annotation and corpora management\r\n* Knowledge sources and sample clinical text\r\n* Machine learning and hybrid approaches\r\n* Customized pipelines\r\n* Interoperability and Scalability\r\n\r\n### Technical Support\r\nFor technical support, please contact Jingqi Wang (@jingqihit) at jingqi.wang@uth.tmc.edu. For for general inquiry please contact Anupama E. Gururaj (@aegururaj) at Anupama.E.Gururaj@uth.tmc.edu.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
